@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+inference-sdk
+opencv-python-headless
+numpy
