@@ -6,6 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from inference_sdk import InferenceHTTPClient
 
 
+
 app = FastAPI()
 
 app.add_middleware(
